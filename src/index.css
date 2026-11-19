@@ -1,0 +1,5 @@
+@import "tailwindcss";
+:root{font-family:Inter,Arial,Helvetica,sans-serif;color:#123a56;background:#f8fbfd;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased}
+body{margin:0;min-width:320px}
+button, input, select, textarea{font:inherit}
+button{cursor:pointer}
